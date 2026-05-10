@@ -43,7 +43,51 @@ My focus is on delivering structured, hands-on trainings that combine solid theo
 _Based on current GitHub repository activity._
 
 <!--START_LANG_STATS-->
-Automatically generated
+| Language | Usage |
+|---------|--------|
+| TypeScript | ████████████████████ 41.7% |
+| C# | ███████████████ 31.8% |
+| JavaScript | ██████████ 21.3% |
+| CSS | █ 3.5% |
+| HTML |  0.7% |
+| Inno Setup |  0.3% |
+| XSLT |  0.2% |
+| Java |  0.2% |
+| Gherkin |  0.2% |
+| Vue |  0.1% |
+| Shell |  0.1% |
+| PowerShell |  0.0% |
+| SCSS |  0.0% |
+| Batchfile |  0.0% |
+| Vim Snippet |  0.0% |
+| Dockerfile |  0.0% |
+| C |  0.0% |
+| Bicep |  0.0% |
+| Python |  0.0% |
+| Groovy |  0.0% |
+| C++ |  0.0% |
+| Makefile |  0.0% |
+| Ruby |  0.0% |
+| PHP |  0.0% |
+| ASP |  0.0% |
+| Objective-C |  0.0% |
+| Objective-C++ |  0.0% |
+| Clojure |  0.0% |
+| Perl 6 |  0.0% |
+| Visual Basic .NET |  0.0% |
+| Perl |  0.0% |
+| Go |  0.0% |
+| F# |  0.0% |
+| CoffeeScript |  0.0% |
+| Rust |  0.0% |
+| PLpgSQL |  0.0% |
+| R |  0.0% |
+| Roff |  0.0% |
+| ShaderLab |  0.0% |
+| Swift |  0.0% |
+| Lua |  0.0% |
+| HLSL |  0.0% |
+| Hack |  0.0% |
 <!--END_LANG_STATS-->
 
 ---
