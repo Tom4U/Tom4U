@@ -10,7 +10,11 @@ def run(cmd: str) -> str:
 
 user = run("gh api user --jq .login")
 
-repos = json.loads(run(f"gh repo list {user} --limit 500 --json name,isFork"))
+raw = run(f"gh repo list {user} --limit 500 --json name,isFork")
+if not raw:
+    print("Error: gh repo list returned empty output. Check GH_PAT secret and token scope.")
+    exit(1)
+repos = json.loads(raw)
 
 languages: DefaultDict[str, int] = defaultdict(int)
 

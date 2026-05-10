@@ -26,11 +26,10 @@ jobs:
           sudo apt update
           sudo apt install gh -y
 
-      - name: Authentifizieren
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
-
       - name: Script ausführen
         run: python scripts/update_languages.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Änderungen committen
         run: |
