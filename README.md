@@ -52,8 +52,6 @@ Automatically generated
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tom4U&show_icons=true&hide_border=true&cache_seconds=86400)
-&nbsp;&nbsp;
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tom4U&hide_border=true)
 
 </div>
