@@ -45,21 +45,21 @@ _Based on current GitHub repository activity._
 <!--START_LANG_STATS-->
 | Language | Usage |
 |---------|--------|
-| TypeScript | ████████████████████ 41.7% |
-| C# | ███████████████ 31.7% |
-| JavaScript | ██████████ 21.2% |
-| CSS | █ 3.5% |
+| TypeScript | ████████████████████ 42.0% |
+| C# | ███████████████ 31.4% |
+| JavaScript | ██████████ 21.1% |
+| CSS | █ 3.4% |
 | HTML |  0.7% |
+| Vue |  0.3% |
 | Inno Setup |  0.3% |
 | XSLT |  0.2% |
 | Java |  0.2% |
 | Gherkin |  0.2% |
-| Vue |  0.1% |
 | Shell |  0.1% |
+| Svelte |  0.1% |
 | MDX |  0.0% |
 | PowerShell |  0.0% |
 | SCSS |  0.0% |
-| Svelte |  0.0% |
 | Batchfile |  0.0% |
 | Vim Snippet |  0.0% |
 | Dockerfile |  0.0% |
