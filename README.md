@@ -45,8 +45,8 @@ _Based on current GitHub repository activity._
 <!--START_LANG_STATS-->
 | Language | Usage |
 |---------|--------|
-| TypeScript | ████████████████████ 42.0% |
-| C# | ███████████████ 31.4% |
+| TypeScript | █████████████████████ 42.0% |
+| C# | ███████████████ 31.3% |
 | JavaScript | ██████████ 21.1% |
 | CSS | █ 3.4% |
 | HTML |  0.7% |
@@ -55,18 +55,19 @@ _Based on current GitHub repository activity._
 | XSLT |  0.2% |
 | Java |  0.2% |
 | Gherkin |  0.2% |
+| PowerShell |  0.1% |
 | Shell |  0.1% |
 | Svelte |  0.1% |
-| MDX |  0.0% |
-| PowerShell |  0.0% |
 | SCSS |  0.0% |
 | Batchfile |  0.0% |
+| MDX |  0.0% |
 | Vim Snippet |  0.0% |
 | Dockerfile |  0.0% |
 | C |  0.0% |
 | Bicep |  0.0% |
 | Python |  0.0% |
 | Groovy |  0.0% |
+| Go Template |  0.0% |
 | C++ |  0.0% |
 | Makefile |  0.0% |
 | Ruby |  0.0% |
