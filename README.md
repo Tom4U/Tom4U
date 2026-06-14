@@ -45,52 +45,18 @@ _Based on current GitHub repository activity._
 <!--START_LANG_STATS-->
 | Language | Usage |
 |---------|--------|
-| TypeScript | █████████████████████ 42.0% |
-| C# | ███████████████ 31.2% |
-| JavaScript | ██████████ 21.0% |
-| CSS | █ 3.4% |
-| HTML |  0.7% |
-| Vue |  0.3% |
-| Inno Setup |  0.3% |
-| Gherkin |  0.2% |
-| XSLT |  0.2% |
-| Java |  0.2% |
-| PowerShell |  0.2% |
-| Shell |  0.1% |
-| Svelte |  0.1% |
-| SCSS |  0.0% |
-| Astro |  0.0% |
-| PHP |  0.0% |
-| Batchfile |  0.0% |
-| Vim Snippet |  0.0% |
-| Dockerfile |  0.0% |
-| C |  0.0% |
-| Bicep |  0.0% |
-| Python |  0.0% |
-| Groovy |  0.0% |
-| Go Template |  0.0% |
-| C++ |  0.0% |
-| Makefile |  0.0% |
-| Ruby |  0.0% |
-| ASP |  0.0% |
-| Objective-C |  0.0% |
-| Objective-C++ |  0.0% |
-| Clojure |  0.0% |
-| Perl 6 |  0.0% |
-| Visual Basic .NET |  0.0% |
-| Perl |  0.0% |
-| Go |  0.0% |
-| F# |  0.0% |
-| CoffeeScript |  0.0% |
-| Rust |  0.0% |
-| PLpgSQL |  0.0% |
-| R |  0.0% |
-| Roff |  0.0% |
-| ShaderLab |  0.0% |
-| Swift |  0.0% |
-| Lua |  0.0% |
-| HLSL |  0.0% |
-| Hack |  0.0% |
+| C# | █████████████████████████ 51.6% |
+| JavaScript | ████████████████ 32.2% |
+| TypeScript | ████ 8.2% |
+| CSS | ██ 4.5% |
+| HTML | ▏ 0.9% |
+| Vue | ▏ 0.5% |
+| PowerShell | ▏ 0.4% |
+| Gherkin | ▏ 0.3% |
+| Go | ▏ 0.3% |
+| XSLT | ▏ 0.3% |
+| Java | ▏ 0.3% |
+| Other | ▏ 0.4% |
 <!--END_LANG_STATS-->
 
 ---

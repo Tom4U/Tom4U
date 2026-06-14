@@ -18,8 +18,15 @@ repos = json.loads(raw)
 
 languages: DefaultDict[str, int] = defaultdict(int)
 
+excluded_repos = {"vscode"}
+
 for repo in repos:
     name = repo["name"]
+
+    if name in excluded_repos:
+        print(f"Skipping {name} (excluded)...")
+        continue
+
     print(f"Processing {name}...")
 
     try:
@@ -36,15 +43,31 @@ lines.append("| Language | Usage |")
 lines.append("|---------|--------|")
 
 
+def to_percent(value: int) -> float:
+    return (value / total) * 100 if total > 0 else 0
+
+
+def format_row(lang: str, percent: float) -> str:
+    bar = "█" * int(percent / 2) or "▏"
+    return f"| {lang} | {bar} {percent:.1f}% |"
+
+
+other = 0
+
 for lang, value in sorted(languages.items(), key=lambda x: x[1], reverse=True):
-    percent = (value / total) * 100
-    bar = "█" * int(percent / 2)
-    
-    lines.append(f"| {lang} | {bar} {percent:.1f}% |")
+    percent = to_percent(value)
+
+    if percent < 0.1:
+        other += value
+        continue
+
+    lines.append(format_row(lang, percent))
+
+if other > 0:
+    lines.append(format_row("Other", to_percent(other)))
 
 markdown = "\n".join(lines)
 
-# README aktualisieren
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
