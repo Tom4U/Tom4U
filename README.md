@@ -19,7 +19,7 @@ My focus is on delivering structured, hands-on trainings that combine solid theo
 
 ## Technologies
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,cs,py,angular,react,svelte,nestjs,dotnet,vue,nodejs,azure,firebase,docker,postgres,mongodb,vscode,visualstudio,git,github,powershell&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,cs,py,angular,react,svelte,nestjs,dotnet,vue,nodejs,nextjs,nuxtjs,astro,bun,azure,firebase,docker,postgres,mongodb,redis,vscode,visualstudio,git,github,powershell,vite&perline=7)](https://skillicons.dev)
 
 <details>
 <summary>Tech stack details</summary>
