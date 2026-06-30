@@ -1,8 +1,14 @@
 # Tom Ohms
 
-I turn complex technology into trainable skills - from Azure architecture to DevOps workflows.
+**Taking the friction out of tech.** That's been my work for over thirty years.
 
-My focus is on delivering structured, hands-on trainings that combine solid theoretical foundations with real-world implementation.
+It started in 1993 with a C64 and Basic, and I've worked through many technology generations since.
+
+Today I work as a developer, consultant, and trainer. I build software that users understand from the first click and teach the skills behind it.
+
+My benchmark for good software is simple: users open it and start. No manual, no questions.
+
+The same standard drives my trainings. I adapt to each person and keep explaining until it clicks.
 
 > The technologies shown here reflect what lives in repositories owned by me - not the full picture of languages and frameworks I work with professionally.
 
