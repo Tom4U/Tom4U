@@ -55,9 +55,9 @@ _Based on current GitHub repository activity._
 | JavaScript | ███████████████ 31.4% |
 | TypeScript | ████ 8.1% |
 | CSS | ██ 4.3% |
-| Python | ▏ 1.8% |
+| Python | ▏ 1.9% |
 | HTML | ▏ 0.9% |
-| Go | ▏ 0.7% |
+| Go | ▏ 0.8% |
 | Vue | ▏ 0.5% |
 | Gherkin | ▏ 0.3% |
 | XSLT | ▏ 0.3% |
