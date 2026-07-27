@@ -51,15 +51,15 @@ _Based on current GitHub repository activity._
 <!--START_LANG_STATS-->
 | Language | Usage |
 |---------|--------|
-| C# | █████████████████████████ 50.6% |
-| JavaScript | ███████████████ 31.4% |
-| TypeScript | ████ 8.1% |
+| C# | █████████████████████████ 50.4% |
+| JavaScript | ███████████████ 31.3% |
+| TypeScript | ████ 8.3% |
 | CSS | ██ 4.3% |
 | Python | ▏ 1.9% |
 | HTML | ▏ 0.9% |
 | Go | ▏ 0.8% |
 | Vue | ▏ 0.5% |
-| Gherkin | ▏ 0.3% |
+| Gherkin | ▏ 0.4% |
 | XSLT | ▏ 0.3% |
 | Java | ▏ 0.3% |
 | PowerShell | ▏ 0.2% |
