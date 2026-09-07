@@ -63,8 +63,8 @@ _Based on current GitHub repository activity._
 | PowerShell | ▏ 0.3% |
 | XSLT | ▏ 0.3% |
 | Java | ▏ 0.3% |
+| Rust | ▏ 0.2% |
 | Shell | ▏ 0.2% |
-| Rust | ▏ 0.1% |
 | Astro | ▏ 0.1% |
 | Other | ▏ 0.3% |
 <!--END_LANG_STATS-->
